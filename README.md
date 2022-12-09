@@ -39,5 +39,5 @@ Using Tiyaro, developers can instantly search, compare and use the world's best 
 ## Sample code
 - https://github.com/tiyaro/code-samples
 
-## tags
+## Usecases
 speech to text, speech recognition, voice recognition, voice transcription
